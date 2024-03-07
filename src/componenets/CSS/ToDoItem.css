@@ -1,0 +1,26 @@
+.ToDoItems{
+display: flex;
+justify-content: space-between;
+padding: 16px 0px;
+align-items: center;
+}
+
+.ToDoItemsContainer{
+    display: flex;
+
+}
+
+.toDoItems-text{
+    padding-left: 16px;
+    color: burlywood;
+    font-size: 22px;
+}
+.ToDoItem-cross-ıcon{
+    cursor: pointer;
+    padding-right: 25px;
+    
+}
+.line-through{
+ text-decoration: line-through solid #adadad 3PX;
+}
+

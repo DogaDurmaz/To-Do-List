@@ -1,0 +1,55 @@
+.ToDo{
+   width: 600px;
+   min-height: 750px;
+   border-radius: 20px;
+   background: thistle;
+   margin: auto;
+   margin-top: 175px;
+   display: flex;
+   flex-direction: column;
+   padding: 0px 44px;
+   padding-bottom: 30px;
+   margin-bottom: 100px;
+
+}
+
+.ToDo-header{
+    margin-top: 85px;
+   color: #85DB;
+   font-size: 36px;
+   font-weight: 600;
+   line-height: 34px;
+}
+
+.ToDo-add{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
+}
+
+.ToDo-input{
+    border-radius: 50px;
+    background: rgb(220, 205, 218);
+    border:none;
+    outline: none;
+    width: 578px;
+    height: 80px;
+    padding-left: 35px;
+    font-size: 20px;
+}
+.ToDo-add-btn{
+    border-radius: 50px;
+    background: #dea494 ;
+    height: 80px; ;
+    width: 190px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -100px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+
+}
